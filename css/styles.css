@@ -1,0 +1,14 @@
+#contentBannerHome{
+    color:white; 
+    position: absolute; 
+    margin-top: 100px;
+}
+
+#contentBannerHome h1{
+    font-size: 50px;
+}
+
+#contentBannerHome p{
+    font-size: 20px;
+}
+
