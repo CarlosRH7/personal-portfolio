@@ -72,7 +72,6 @@ $('#calcular').click(function(){
             $('#result').append('<p>La multiplicación es: '+ result);
         }
     );
-    
 });
 
 
