@@ -21,4 +21,24 @@
             
         ]
     }
+    ,"projects":{
+        "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi itaque quisquam nesciunt in, aliquam aut distinctio esse, quo amet maiores accusamus illum optio tempore est dolor veniam, dolore unde sequi!",
+        "listProjects":[
+            {
+                "name":"Project 1",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi itaque quisquam nesciunt in, aliquam aut distinctio esse, quo amet maiores accusamus illum optio tempore est dolor veniam, dolore unde sequi!",
+                "src_img":"img/project.jpeg"
+            },
+            {
+                "name":"Project 2",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi itaque quisquam nesciunt in, aliquam aut distinctio esse, quo amet maiores accusamus illum optio tempore est dolor veniam, dolore unde sequi!",
+                "src_img":"img/project.jpeg"
+            },
+            {
+                "name":"Project 3",
+                "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi itaque quisquam nesciunt in, aliquam aut distinctio esse, quo amet maiores accusamus illum optio tempore est dolor veniam, dolore unde sequi!",
+                "src_img":"img/project.jpeg"
+            }
+        ]
+    }
 }
